@@ -1,0 +1,6 @@
+[
+    
+    {"Id_Usuario":1, "Nome_Usuario":"Fl\u00e1vio Marques", "Email_Usuario":"flaviomarques2@hotmail.com", "Senha_Usuario":"123456", "Cadastro_Usuario":1},
+
+    {"Id_Usuario":2, "Nome_Usuario":"Gabi", "Email_Usuario":"gabi@email.com", "Senha_Usuario":"456789", "Cadastro_Usuario":1}
+]
